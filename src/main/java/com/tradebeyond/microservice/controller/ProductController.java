@@ -1,7 +1,7 @@
 package com.tradebeyond.microservice.controller;
 
-import com.example.demo.model.Product;
-import com.example.demo.service.ProductService;
+import com.tradebeyond.microservice.model.Product;
+import com.tradebeyond.microservice.service.ProductService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
